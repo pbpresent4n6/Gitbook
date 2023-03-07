@@ -2,6 +2,16 @@
 cover: .gitbook/assets/logo_verbose.png
 coverY: 0
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ESMHKSHSFB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ESMHKSHSFB');
+</script>
+
 
 # 北 랜섬웨어 관련 비트코인 주소 트랜잭션 추적
 
