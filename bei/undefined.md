@@ -79,7 +79,7 @@
 * Bitcoin Depot
 {% endtab %}
 
-{% tab title="Converter" %}
+{% tab title="Cross Chain Bridge" %}
 * renBTC
 {% endtab %}
 {% endtabs %}
