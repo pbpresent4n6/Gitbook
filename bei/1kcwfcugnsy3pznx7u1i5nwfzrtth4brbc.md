@@ -2,7 +2,7 @@
 
 ## 1. 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc 지갑 주소 정보
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 1] 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc 지갑 주소 정보</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>[그림 1] 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc 지갑 주소 정보</p></figcaption></figure>
 
 QLUE 에서 조회한 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc 지갑 주소의 요약 정보는 위와 같다.
 
