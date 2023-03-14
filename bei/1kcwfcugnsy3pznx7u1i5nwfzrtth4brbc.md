@@ -36,7 +36,7 @@ QLUE에서 식별할 수 있는 Cluster 식별 값은 806944670이며, 해당 �
 
 ## 2. 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc 주소 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>[그림 2] 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc - eGraph</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>[그림 2] 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc - eGraph</p></figcaption></figure>
 
 분석 대상 지갑 주소인 1KCwfCUgnSy3pzNX7U1i5NwFzRtth4bRBc를 eGraph에서 조회한 결과는 위와 같다.
 
