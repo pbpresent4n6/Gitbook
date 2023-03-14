@@ -48,7 +48,7 @@ bc1q8xyt4jxhw7mgqpwd6qfdjyxgvjeuz57jxrvgk9 지갑 주소로 들어온 0.51256 BT
 
 ### 2-1) Output 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 3] NairaEx 거래소로 비트코인 전송</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>[그림 3] NairaEx 거래소로 비트코인 전송</p></figcaption></figure>
 
 0.512 BTC가 전송된 3ByzggH211WiSPuqK6AvAGuvSE2dbduHvM 지갑 주소는 NairaEx라는 거래소의 지갑 주소로 식별되었다. ([https://nairaex.com/](https://nairaex.com/))
 
@@ -137,7 +137,7 @@ bc1qsrr8sf7xxyvaxylefta92m3qhwdj3nlu0jrl4x 지갑 주소에서는 약 2천 건�
 
 #### Chain Hopping
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>[그림 14] 또 다른 2.048 BTC 추적 (5/5)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>[그림 14] 또 다른 2.048 BTC 추적 (5/5)</p></figcaption></figure>
 
 다섯 번째 2.048 BTC를 추적한 결과, 다른 지갑 주소에서 전송된 BTC와 합쳐져 23.0396877 BTC에 해당하는 금액이 renBTC로 변환된 것을 확인했다.
 
