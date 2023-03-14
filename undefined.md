@@ -79,6 +79,8 @@ change 주소와 payment 주소를 합쳐서 출력(output)주소라고 하겠�
 
 \[그림 2]를 보면 입력 주소와 2번째 출력 주소가 같은 것을 알 수 있다. 이 때, 첫 번째 출력 주소를 지불 주소로 판단할 수 있다.
 
+* [\[그림 2\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/167db4b77c1a5ed21d78c73d94275b61d061ac9e626109aac7df856b22b67821)
+
 
 
 ### 2-2) 동일한 주소 포맷
@@ -87,9 +89,11 @@ change 주소와 payment 주소를 합쳐서 출력(output)주소라고 하겠�
 
 
 
-대부분의 시스템에서 입력 주소와 잔금 주소는 동일한 포맷을 사용한다.
+대부분의 시스템에서 입력 주소와 잔금 주소는 동일한 포맷을 사용하는 경향이 있는 점에서 비롯된 휴리스틱으로, 강한 휴리스틱 중 하나이다.
 
 \[그림 3]에서 입력 주소는 1로 시작하는 P2PKH 타입이며, 출력 주소는 bc1q로 시작하는 P2WPKH와 1로 시작하는 P2PKH 타입이다. 이 때, 2번째 출력주소가 입력 주소와 동일한 포맷을 사용하기 때문에 잔금 주소로 볼 수 있다.
+
+* [\[그림 3\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/d50db1c12fbdad40a9c97619c6ed3cb4fa7077de1b3014bd3521ab1f5c8b3e07)
 
 비트코인은 크게 4가지 주소 형식을 사용하는 것으로 널리 알려져 있으며, 다음과 같다.
 
@@ -118,7 +122,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-4) 어림수 (Round Number)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 5] 비트코인 휴리스틱 4 - 어림수 (Round Number)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>[그림 5] 비트코인 휴리스틱 4 - 어림수 (Round Number)</p></figcaption></figure>
 
 
 
@@ -127,6 +131,8 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 사람의 특성 상 깔끔하게 떨어지는 액수를 보낼 확률이 높은 것에 기반한 휴리스틱으로, 출력 주소 중 어림수가 전송된 주소를 지불 주소로 판단하는 방법이다.
 
 \[그림 5] 트랜잭션에서는 0.00349588 BTC보다는 깔끔하게 떨어지는 0.0005 BTC를 보낸 첫 번째 출력 주소를 지불 주소로 판단할 수 있다.
+
+* [\[그림 5\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/7f57b612e30c77ba76de09ef6654456746c36abf696ff9d6d5baf97d06dbb842)
 
 
 
@@ -139,6 +145,8 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 입력 주소가 다중 서명 주소이고, 출력 주소 중 하나가 다중 서명 주소이고 입력 주소와 같은 속성을 가질 때(2/3, 3/5 등), 해당 출력 주소를 잔금 주소로 판단하는 방법이다.
 
 \[그림 6]은 입력 주소와 첫 번째 출력 주소 모두 다중 서명 지갑 주소이지만, 두 번째 출력 주소는 Legacy 주소이기 때문에 지불 주소로 볼 수 있다.
+
+* [\[그림 6\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/8d0d9e682bbb98af4231389a232fdf331e8f47ab60f0416f5b8853a84af6791f)
 
 다중 서명 지갑 주소 판단은 다음과 같은 방법으로 할 수 있다.
 
@@ -154,7 +162,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-6) 공동 입력 소유권 (Common Input Ownership)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 8] 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 8] 비트코인 휴리스틱 6 - 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
 
 
 
@@ -170,9 +178,65 @@ HD Wallet은 단일 마스터 시드키를 통해 하위 개인/공용 키 및 �
 
 주의할 점으로 다수의 입력 주소가 존재할 수 있는 트랜잭션 형태인 coinjoin, payjoin과 구분해야 한다.
 
+* [\[그림 8\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/8b4b8757b2f09d8f15ab1eb9cbcca2e3faaf9a45a34490a255efa19aeb2911db)
 
 
 
+### 2-7) 가장 큰 입력 금액
+
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption><p>[그림 9] 비트코인 휴리스틱 7 - 가장 큰 입력 금액</p></figcaption></figure>
+
+
+
+입력 주소의 금액들 중 최댓값이 출력 주소의 금액들 중 최댓값보다 작으면, 해당 값을 받은 주소를 지불 주소로 판단하는 방법이다.
+
+UTXO 모델을 사용하는 비트코인의 특성 상 전송 금액을 감당할 수 있을 만한 크기의 UTXO가 없을 경우, 적은 금액을 가지는 다수의 UTXO들을 모아서 지불하는 것을 근거로 한 휴리스틱이다.
+
+\[그림 9] 트랜잭션에서 입력 금액의 최댓값은 0.02184592인데, 지불 금액의 최댓값은 0.10104000 BTC이기 때문에 0.10104000 BTC를 받는 주소를 지불 주소로 볼 수 있다.
+
+* [\[그림 9\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/e019c56f3e39d2baf8849d435b99e6940155a0ba23c92f3a241605a23164686a)
+
+
+
+### 2-8) 가장 큰 출력 금액
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 10] 비트코인 휴리스틱 8 - 가장 큰 출력 금액</p></figcaption></figure>
+
+
+
+출력 금액 중 가장 큰 금액을 받은 주소를 잔금 주소로 판단하는 방법으로, 가장 약한 휴리스틱 중 하나이다.
+
+적은 금액을 받은 출력 주소가 다수 있고, 큰 금액을 받은 출력 주소가 하나 있는 상황에서 고려해볼 수 있다.
+
+\[그림 10] 트랜잭션에서는 더 큰 금액을 받은 두 번째 출력 주소를 잔금 주소로 볼 수 있다.
+
+* [\[그림 10\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/d2622c734f7507d484cb4888df76d6ad2cdf0e0480f57b4684a99037a8f0009f)
+
+
+
+### 2-9) 다른 클러스터에 속한 주소
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 11] 비트코인 휴리스틱 9 - 다른 클러스터에 속한 주소</p></figcaption></figure>
+
+
+
+출력 주소 중 하나가 이미 다른 클러스터에 속해있는 주소일 때, 해당 주소를 지불 주소로 판단하는 휴리스틱이다.
+
+OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확인할 수 있다.
+
+\[그림 11] 트랜잭션은 첫 번째 출력 주소가 랜섬웨어에 사용된 주소로 기존에 알려져 있기 때문에 지불 주소로 볼 수 있다.
+
+* [\[그림 11\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/9975160cda28797ca6a6c55bc4f0a4f4a69e25b035c420cd9a687f8b548b7ae0)
+
+
+
+### 2-10) 트랜잭션 속성 분석
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>[그림 12] 비트코인 휴리스틱 10 - 트랜잭션 속성 분석</p></figcaption></figure>
+
+
+
+동일한 지갑 서비스일 경우 동일한 트랜잭션 속성을 가질 것이라는 가정에 기반한 휴리스틱이.
 
 
 
