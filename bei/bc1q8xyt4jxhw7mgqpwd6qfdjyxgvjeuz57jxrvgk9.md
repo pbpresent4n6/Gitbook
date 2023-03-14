@@ -104,7 +104,7 @@ bc1qsrr8sf7xxyvaxylefta92m3qhwdj3nlu0jrl4x 지갑 주소에서는 약 2천 건�
 
 1.2 BTC는 중간에 다른 지갑 주소에서 전송된 BTC와 합쳐져 2.99 BTC로 전송된 것을 알 수 있다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 8] 2.99 BTC의 트랜잭션을 추적</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>[그림 8] 2.99 BTC의 트랜잭션을 추적</p></figcaption></figure>
 
 2.99 BTC는 다시 한 번 다른 지갑 주소에서 전송된 BTC들과 합쳐졌고, 2.048 BTC의 액수로 동시에 다수의 지갑에 나뉘어서 전송되었다.\
 그 중 bc1q99vcvyuqxhg26ss3xygqz4x37w2le092zqh9ew 지갑 주소의 트랜잭션을 지속해서 추적해보기로 한다.
