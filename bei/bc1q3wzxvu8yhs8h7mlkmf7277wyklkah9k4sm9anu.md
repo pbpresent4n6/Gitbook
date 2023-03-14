@@ -62,7 +62,7 @@ Bitzlato 거래소는 불법 활동에 상당히 연루되었고 느슨한 KYC �
 
 그리고 더 작은 금액인 0.00005 BTC가 별도의 output으로 분리되었기 때문에 해당 트랜잭션도 따라가보기로 했다.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>[그림 5] 0.00005 BTC의 트랜잭션을 추적</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>[그림 5] 0.00005 BTC의 트랜잭션을 추적</p></figcaption></figure>
 
 0.00005 BTC는 다른 102개의 input과 합쳐져 4.18927789 BTC가 되어 전송되었다.
 

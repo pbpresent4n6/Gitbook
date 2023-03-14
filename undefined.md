@@ -3,7 +3,7 @@ cover: .gitbook/assets/Bitcoin_Trading_Network_4K_HD_1366x768 (1).jpg
 coverY: 59
 ---
 
-# 비트코인 주소 클러스터링 휴리스틱
+# 비트코인 주소 클러스터링과 휴리스틱
 
 ## 1. 주소 클러스터링이 중요한 이유
 
@@ -61,17 +61,17 @@ change 주소와 payment 주소를 합쳐서 출력(output)주소라고 하겠�
 
 
 
-## 2. 비트코인 클러스터링 휴리스틱
+## 2. 비트코인 휴리스틱
 
 
 
-본 글에서는 비트코인 on-chain 데이터를 가지고 적용할 수 있는 몇 가지 휴리스틱을 소개하고자 한다.
+본 글에서는 비트코인 on-chain 데이터를 가지고 적용할 수 있는 잔금 주소 식별을 포함한 몇 가지 휴리스틱을 소개하고자 한다.
 
 
 
 ### 2-1) 주소 재사용
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>[그림 2] 비트코인 휴리스틱 1 - 주소 재사용</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>[그림 2] 비트코인 휴리스틱 1 - 주소 재사용</p></figcaption></figure>
 
 
 
@@ -130,13 +130,13 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 
 
-### 2-5) 같은 속성의 주소
+### 2-5) 다중 서명 주소
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 5 - 같은 속성의 지갑 사용</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 5 - 다중 서명 주소</p></figcaption></figure>
 
 
 
-출력 주소 중 입력 주소와 같은 속성을 사용하는 주소가 있을 경우(다중 서명 등), 해당 출력 주소를 잔금 주소로 판단하는 방법이다.
+입력 주소가 다중 서명 주소이고, 출력 주소 중 하나가 다중 서명 주소이고 입력 주소와 같은 속성을 가질 때(2/3, 3/5 등), 해당 출력 주소를 잔금 주소로 판단하는 방법이다.
 
 \[그림 6]은 입력 주소와 첫 번째 출력 주소 모두 다중 서명 지갑 주소이지만, 두 번째 출력 주소는 Legacy 주소이기 때문에 지불 주소로 볼 수 있다.
 
@@ -152,7 +152,33 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 
 
-2-6)&#x20;
+### 2-6) 공동 입력 소유권 (Common Input Ownership)
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 8] 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
+
+
+
+최근 대부분의 비트코인 지갑은 계층적 결정론적(Hierarchical Deterministic) 지갑 구조를 가지고 있다.
+
+HD Wallet은 단일 마스터 시드키를 통해 하위 개인/공용 키 및 관련 주소를 생성한다.
+
+계층적 구조에 의해 하나의 지갑에는 다수의 주소가 포함될 수 있다는 의미이다.
+
+이와 같은 사실을 근거로 공동 입력 소유권 휴리스틱이 등장하게 되었다. 공동 입력 소유권 휴리스틱은 각 주소가 동일한 개인키 또는 지갑 소프트웨어에 의해 제어된다고 가정하는 것이다.
+
+한 마디로, 하나의 트랜잭션에서 모든 입력 주소의 소유자를 같다고 판단하는 것으로 강력한 휴리스틱으로 평가받고 있다.
+
+주의할 점으로 다수의 입력 주소가 존재할 수 있는 트랜잭션 형태인 coinjoin, payjoin과 구분해야 한다.
+
+
+
+
+
+
+
+
+
+
 
 
 
