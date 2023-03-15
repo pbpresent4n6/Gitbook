@@ -85,7 +85,7 @@ change 주소와 payment 주소를 합쳐서 출력(output)주소라고 하겠�
 
 ### 2-2) 동일한 주소 포맷
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 3] 비트코인 휴리스틱 2 - 동일한 주소 포맷 사용</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 3] 비트코인 휴리스틱 2 - 동일한 주소 포맷</p></figcaption></figure>
 
 
 
@@ -273,8 +273,6 @@ A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 �
 
 
 ### 2-11) 그 외
-
-
 
 * 믹싱 서비스의 특징을 기반으로 판단할 수 있다. (Wasabi Coinjoin은 bc1q 주소를 가진다 등)
 * 일반적으로 수수료는 잔금 주소에서 빠져나간다. mempool을 관찰할 수 있는 경우 수수료가 감소되는 주소를 확인한다.
