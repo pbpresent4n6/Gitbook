@@ -79,7 +79,7 @@ QLUE에서 식별할 수 있는 Cluster 식별 값은 806944670이며, 해당 �
 
 ### 2-2) Input 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>[그림 7] Coinbase 거래소로부터 전송된 BTC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>[그림 7] Coinbase 거래소로부터 전송된 BTC</p></figcaption></figure>
 
 분석 대상 지갑 주소에서 확인된 3개의 수신 트랜잭션 중 하나는 위 그림과 같이 Coinbase 거래소 소유의 지갑 주소로부터 전송되었다.
 

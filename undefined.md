@@ -138,7 +138,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-5) 다중 서명 주소
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 5 - 다중 서명 주소</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (2).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 5 - 다중 서명 주소</p></figcaption></figure>
 
 
 
@@ -162,7 +162,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-6) 공동 입력 소유권 (Common Input Ownership)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 8] 비트코인 휴리스틱 6 - 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption><p>[그림 8] 비트코인 휴리스틱 6 - 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ UTXO 모델을 사용하는 비트코인의 특성 상 전송 금액을 감당�
 
 ### 2-8) 가장 큰 출력 금액
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 10] 비트코인 휴리스틱 8 - 가장 큰 출력 금액</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>[그림 10] 비트코인 휴리스틱 8 - 가장 큰 출력 금액</p></figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ UTXO 모델을 사용하는 비트코인의 특성 상 전송 금액을 감당�
 
 ### 2-9) 다른 클러스터에 속한 주소
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 11] 비트코인 휴리스틱 9 - 다른 클러스터에 속한 주소</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (3).png" alt=""><figcaption><p>[그림 11] 비트코인 휴리스틱 9 - 다른 클러스터에 속한 주소</p></figcaption></figure>
 
 
 
@@ -242,107 +242,46 @@ OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확
 
 
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 13] QLUE로 확인한 [그림 12] 트랜잭션</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>[그림 13] QLUE로 확인한 [그림 12] 트랜잭션</p></figcaption></figure>
 
 
 
-A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 주소가 되는 트랜잭션 B의 속성과 A 트랜잭션의 속성이 같은지 비교하는 방법이다.
+A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 주소가 되는 트랜잭션 B, C의 속성과 A 트랜잭션의 속성이 같은지 비교하는 방법이다.
 
 
 
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 14] [그림 13] 트랜잭션 정보</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 15] 2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae 트랜잭션 정보</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 16] e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309 트랜잭션 정보</p></figcaption></figure>
 
 
 
+다양한 트랜잭션 속성 중 주목할 부분은 RBF(Replace By Fee), Locktime, Version, witness 값이다.
 
+연속된 트랜잭션 중에 네 항목의 값이 동일한 트랜잭션이 있다면 같은 지갑 서비스를 사용하고 있을 확률이 높을 것이다.
 
+\[그림 14], \[그림 15], \[그림16]에서 확인할 수 있듯이 RBF, Locktime, Witness 값은 동일한 것을 알 수 있다.
 
+하지만 \[그림 13] 트랜잭션과 e08b-0309 트랜잭션의 Version 값은 1인데, 2f3c-0cae 트랜잭션의 Version 값은 2이기 때문에 지불 주소로 볼 수 있다.
 
 
 
+### 2-11) 그 외
 
 
 
+* 믹싱 서비스의 특징을 기반으로 판단할 수 있다. (Wasabi Coinjoin은 bc1q 주소를 가진다 등)
+* 일반적으로 수수료는 잔금 주소에서 빠져나간다. mempool을 관찰할 수 있는 경우 수수료가 감소되는 주소를 확인한다.
+* 특정 지갑 서비스의 경우 지불 주소를 트랜잭션 vout의 첫 번째 인덱스에 고정하는 경우가 있다. (이러한 점을 개선하기 위해  BIP-0069가 제안되었지만 많은 서비스에서 적용하고 있지 않음)
+* Dust Attack을 수행하고, Dust를 받은 주소에서 발생하는 트랜잭션을 통해 클러스터링을 할 수 있다.
 
 
 
+## 3. 결론
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-위에서 언급한 휴리스틱들을 바탕으로 일부 트랜잭션 조회 사이트나 암호화폐 추적 솔루션에서는 트랜잭션에 잔금 주소를 식별해주기도 한다.
-
-하지만 잔금 주소 식별은 어디까지나 휴리스틱에 의존하는 것이기 때문에 100% 신뢰해선 안된다는 것을 명심할 필요가 있다.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 위에서 언급한 휴리스틱들을 바탕으로 일부 트랜잭션 조회 사이트나 암호화폐 추적 솔루션에서는 트랜잭션에 잔금 주소를 식별해주기도 한다.
+* 잔금 주소 식별은 어디까지나 휴리스틱에 의존하는 것이기 때문에 100% 신뢰해선 안된다는 것을 명심할 필요가 있다.
+* 휴리스틱만으로는 암호화폐 추적이 어려우며, OSINT 및 HUMINT를 통해 얻은 정보와 결합해서 분석한다면 강력하게 작용할 수 있을 것이다.
 
