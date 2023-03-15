@@ -11,4 +11,4 @@
   * [1FX4W9rrG4F3Uc7gJ18GCwGab8XuW8Ajy2](bei/1fx4w9rrg4f3uc7gj18gcwgab8xuw8ajy2.md)
   * [1KmWW6LgdgykBBrSXrFu9kdoHz95Fe9kQF](bei/1kmww6lgdgykbbrsxrfu9kdohz95fe9kqf.md)
   * [결론](bei/undefined.md)
-* [비트코인 주소 클러스터링과 휴리스틱](undefined.md)
+* [비트코인 주소 클러스터링과 휴리스틱](bitcoin-heuristic.md)
