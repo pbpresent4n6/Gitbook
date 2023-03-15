@@ -266,6 +266,10 @@ A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 �
 
 하지만 \[그림 13] 트랜잭션과 e08b-0309 트랜잭션의 Version 값은 1인데, 2f3c-0cae 트랜잭션의 Version 값은 2이기 때문에 지불 주소로 볼 수 있다.
 
+* [\[그림 13, 14\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/d01de62cf5794cd8e93a86e3f01dcaa30b3c82540152fc4958e41af3a2c0c2ba)
+* [\[그림 15\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae)
+* [\[그림 16\] 트랜잭션](https://www.blockchain.com/explorer/transactions/btc/e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309)
+
 
 
 ### 2-11) 그 외
