@@ -3,7 +3,7 @@ cover: .gitbook/assets/그림1.png
 coverY: 0
 ---
 
-# Colonial Pipeline Ransomware 사건 주소 추적
+# Colonial Pipeline Ransomware 공격자 주소 추적
 
 ## 1. 사건 개요
 
@@ -157,7 +157,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 15] Peel Chain 형태의 트랜잭션</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption><p>[그림 15] Peel Chain 형태의 트랜잭션</p></figcaption></figure>
 
 
 

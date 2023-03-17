@@ -180,7 +180,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-6) 공동 입력 소유권 (Common Input Ownership)
 
-<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption><p>[그림 10] 비트코인 휴리스틱 6 - 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3) (1).png" alt=""><figcaption><p>[그림 10] 비트코인 휴리스틱 6 - 공동 입력 소유권 (Common Input Ownership)</p></figcaption></figure>
 
 
 
@@ -250,7 +250,7 @@ OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확
 
 ### 2-10) 트랜잭션 속성 분석
 
-<figure><img src=".gitbook/assets/image (2) (3).png" alt=""><figcaption><p>[그림 14] 비트코인 휴리스틱 10 - 트랜잭션 속성 분석</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>[그림 14] 비트코인 휴리스틱 10 - 트랜잭션 속성 분석</p></figcaption></figure>
 
 
 
