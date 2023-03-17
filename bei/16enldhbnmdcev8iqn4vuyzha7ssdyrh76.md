@@ -2,7 +2,7 @@
 
 ## 1. 16ENLdHbnmDcEV8iqN4vuyZHa7sSdYRh76 지갑 주소 정보
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>[그림 1] 16ENLdHbnmDcEV8iqN4vuyZHa7sSdYRh76 지갑 주소 정보</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>[그림 1] 16ENLdHbnmDcEV8iqN4vuyZHa7sSdYRh76 지갑 주소 정보</p></figcaption></figure>
 
 QLUE에서 조회한 16ENLdHbnmDcEV8iqN4vuyZHa7sSdYRh76 지갑 주소의 요약 정보는 위와 같다.
 

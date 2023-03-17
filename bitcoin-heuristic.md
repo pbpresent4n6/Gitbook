@@ -24,7 +24,7 @@ OSINT, HUMINT 정보를 통해 특정 그룹에 속한 주소를 식별하는 �
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 1] 클러스터링이 적용되지 않은 그래프</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>[그림 1] 클러스터링이 적용되지 않은 그래프</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2) (4).png" alt=""><figcaption><p>[그림 2] 클러스터링이 적용된 그래프</p></figcaption></figure>
 
@@ -103,7 +103,7 @@ UTXO 모델을 기반으로 하는 비트코인은 트랜잭션을 수행했을 
 
 ### 2-2) 동일한 주소 포맷
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 5] 비트코인 휴리스틱 2 - 동일한 주소 포맷</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (2).png" alt=""><figcaption><p>[그림 5] 비트코인 휴리스틱 2 - 동일한 주소 포맷</p></figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ UTXO 모델을 기반으로 하는 비트코인은 트랜잭션을 수행했을 
 
 ### 2-3) 트랜잭션 이전 기록이 없는 주소
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 3 - 트랜잭션 이전 기록이 없는 주소</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (2).png" alt=""><figcaption><p>[그림 6] 비트코인 휴리스틱 3 - 트랜잭션 이전 기록이 없는 주소</p></figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@ A 트랜잭션이 발생했을 때, 출력 주소 중 하나는 A 트랜잭션 �
 
 ### 2-4) 어림수 (Round Number)
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>[그림 7] 비트코인 휴리스틱 4 - 어림수 (Round Number)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (2).png" alt=""><figcaption><p>[그림 7] 비트코인 휴리스틱 4 - 어림수 (Round Number)</p></figcaption></figure>
 
 
 
@@ -218,7 +218,7 @@ UTXO 모델을 사용하는 비트코인의 특성 상 전송 금액을 감당�
 
 ### 2-8) 가장 큰 출력 금액
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>[그림 12] 비트코인 휴리스틱 8 - 가장 큰 출력 금액</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption><p>[그림 12] 비트코인 휴리스틱 8 - 가장 큰 출력 금액</p></figcaption></figure>
 
 
 
@@ -260,7 +260,7 @@ OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확
 
 
 
-<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>[그림 15] QLUE로 확인한 [그림 14] 트랜잭션</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption><p>[그림 15] QLUE로 확인한 [그림 14] 트랜잭션</p></figcaption></figure>
 
 
 
@@ -270,9 +270,9 @@ A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 �
 
 <figure><img src=".gitbook/assets/image (3) (4).png" alt=""><figcaption><p>[그림 16] [그림 14] 트랜잭션 정보</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption><p>[그림 17] 2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae 트랜잭션 정보</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>[그림 17] 2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae 트랜잭션 정보</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>[그림 18] e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309 트랜잭션 정보</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (4).png" alt=""><figcaption><p>[그림 18] e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309 트랜잭션 정보</p></figcaption></figure>
 
 
 

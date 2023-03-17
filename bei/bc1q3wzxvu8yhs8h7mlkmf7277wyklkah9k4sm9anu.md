@@ -44,7 +44,7 @@ QLUE의 e-Graph 기능으로 조회한 트랜잭션 그래프는 위와 같다.
 
 ### 2-1) Output 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>[그림 3] Binance 거래소로 비트코인 전송</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>[그림 3] Binance 거래소로 비트코인 전송</p></figcaption></figure>
 
 bc1qhjnxutw0qvah8rea430ark2df2fcxm5xlfy52r 주소에서 2.54 BTC 중 약 1.33에 해당하는 BTC를 Binance 거래소로 전송한 사실을 확인할 수 있다(붉은선). ([https://www.binance.com/en](https://www.binance.com/en))
 
@@ -70,7 +70,7 @@ Bitzlato 거래소는 불법 활동에 상당히 연루되었고 느슨한 KYC �
 
 #### Coinjoin이 반복되는 형태
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>[그림 6] 자금 추적 회피 행위가 반복되는 형태</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>[그림 6] 자금 추적 회피 행위가 반복되는 형태</p></figcaption></figure>
 
 위와 같이 같은 형태의 그래프가 반복되고 있는데, 하나의 트랜잭션에 다수의 input이 있는 형태로 봐서 coinjoin과 같은 서비스를 사용한 것으로 추측할 수 있다. 해당 그래프의 첫 coinjoin 형태가 보이는 트랜잭션보다 한참 전부터 같은 형태가 반복되어 오고 있었으며, output을 끝까지 추적한 결과 2023년 1월 13일 트랜잭션을 마지막으로 7.2107759 BTC가 bc1q22myyrpe8h2m0jqe5k7j9wqjcy6tksld05s3p0 지갑 주소로 전송된 것을 확인할 수 있었다.
 
