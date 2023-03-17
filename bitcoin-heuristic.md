@@ -26,7 +26,7 @@ OSINT, HUMINT 정보를 통해 특정 그룹에 속한 주소를 식별하는 �
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 1] 클러스터링이 적용되지 않은 그래프</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>[그림 2] 클러스터링이 적용된 그래프</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (4).png" alt=""><figcaption><p>[그림 2] 클러스터링이 적용된 그래프</p></figcaption></figure>
 
 
 
@@ -270,9 +270,9 @@ A 트랜잭션이 발생했을 때, A 트랜잭션의 출력 주소가 입력 �
 
 <figure><img src=".gitbook/assets/image (3) (4).png" alt=""><figcaption><p>[그림 16] [그림 14] 트랜잭션 정보</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 17] 2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae 트랜잭션 정보</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption><p>[그림 17] 2f3c8f0838a3ee190d1c4f043dbe541952df15b5437a96449b74e1d657a60cae 트랜잭션 정보</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 18] e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309 트랜잭션 정보</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>[그림 18] e08bca06cab177bf66cb3f533506814f26d005a7fa59592476c7d4d157ed0309 트랜잭션 정보</p></figcaption></figure>
 
 
 
