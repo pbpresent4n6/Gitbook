@@ -71,7 +71,7 @@ QLUE에서 식별할 수 있는 Cluster 식별 값은 806944670이며, 해당 �
 * 121AkmEbHBX9FuFeuDWv2CpyHqNq9F18k9
 * 1C5qLPgqW4Ed6PuyLHPqXpdF2gQ1EEnJ65
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>[그림 6] Coinspaid 엔티티 소유 지갑 주소로 전송되는 트랜잭션 형태</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption><p>[그림 6] Coinspaid 엔티티 소유 지갑 주소로 전송되는 트랜잭션 형태</p></figcaption></figure>
 
 분석 대상 지갑 주소에서 확인한 송신 트랜잭션 중 마지막 하나는 다른 지갑 주소에서 전송된 BTC와 합쳐져 0.14022775 BTC가 전송되었고, 해당 BTC는 또 다른 BTC와 합쳐져 Coinspaid 엔티티가 부여된 지갑 주소인 bc1qns9f7yfx3ry9lj6yz7c9er0vwa0ye2eklpzqfw로 전송된 것을 알 수 있다.
 
@@ -79,7 +79,7 @@ QLUE에서 식별할 수 있는 Cluster 식별 값은 806944670이며, 해당 �
 
 ### 2-2) Input 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>[그림 7] Coinbase 거래소로부터 전송된 BTC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>[그림 7] Coinbase 거래소로부터 전송된 BTC</p></figcaption></figure>
 
 분석 대상 지갑 주소에서 확인된 3개의 수신 트랜잭션 중 하나는 위 그림과 같이 Coinbase 거래소 소유의 지갑 주소로부터 전송되었다.
 
@@ -87,7 +87,7 @@ QLUE에서 식별할 수 있는 Cluster 식별 값은 806944670이며, 해당 �
 
 Output이 41개나 되는 걸로 봤을 때, 일반적인 사용자의 전송 형태는 아닌 것으로 판단되며, 공격자 소유의 지갑 주소로 추측된다.
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>[그림 8] Peel Chain 및 거래소로부터 전송된 트랜잭션 형태</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>[그림 8] Peel Chain 및 거래소로부터 전송된 트랜잭션 형태</p></figcaption></figure>
 
 분석 대상 지갑 주소의 input 트랜잭션 3개 중 하나는 Peel Chain으로부터 전송되었다.
 

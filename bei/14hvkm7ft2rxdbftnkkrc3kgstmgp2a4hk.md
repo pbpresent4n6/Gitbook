@@ -47,7 +47,7 @@ Gemini 거래소로부터 분석 대상 지갑 주소인 14hVKm7Ft2rxDBFTNkkRC3k
 
 ### 2-1. Output 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>[그림 3] DiscusFish 지갑 주소로 전송되는 트랜잭션 형태</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>[그림 3] DiscusFish 지갑 주소로 전송되는 트랜잭션 형태</p></figcaption></figure>
 
 \[그림 2]에서 전송된 1.45984994 BTC의 트랜잭션을 추적한 결과 중간 과정에서 다른 지갑 주소에서 전송된 BTC와 합쳐져 여러가지 트랜잭션으로 분산된 것을 확인했다.
 
@@ -71,7 +71,7 @@ Output 트랜잭션 중 상당한 규모의 액수는 33bEYhASee8UhJrdprWS7orzZT
 
 해당 주소는 거래소로 클러스터링 되지는 않았지만, 트랜잭션 횟수가 약 3천 건이고, 주고 받은 BTC가 약 46,744 정도 되기 때문에 식별되지 않은 거래소의 지갑 주소로 추측해볼 수 있다.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>[그림 5] 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A 지갑 주소 Input 트랜잭션</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>[그림 5] 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A 지갑 주소 Input 트랜잭션</p></figcaption></figure>
 
 Ryuk Ransomware 클러스터에 포함되어 있던 주소인 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A의 Input BTC는 분석 대상 지갑 주소의 Output 트랜잭션 중 일부가 들어간 것으로 확인됐다.
 

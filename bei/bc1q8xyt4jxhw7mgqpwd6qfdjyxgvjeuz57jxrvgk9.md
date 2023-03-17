@@ -60,7 +60,7 @@ NairaEx 거래소는 이메일 주소를 제출하기만 하면 암호화폐를 
 
 ### 2-2) Input 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (59) (1).png" alt=""><figcaption><p>[그림 4] 0.51256 BTC가 들어온 과정</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>[그림 4] 0.51256 BTC가 들어온 과정</p></figcaption></figure>
 
 bc1qx3nf69khasc4uhmk8q3ygezaxcramjnurthkm7 주소에서 분석 대상 지갑 주소로 0.51256 BTC를 전송했다.
 
@@ -104,7 +104,7 @@ bc1qsrr8sf7xxyvaxylefta92m3qhwdj3nlu0jrl4x 지갑 주소에서는 약 2천 건�
 
 1.2 BTC는 중간에 다른 지갑 주소에서 전송된 BTC와 합쳐져 2.99 BTC로 전송된 것을 알 수 있다.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>[그림 8] 2.99 BTC의 트랜잭션을 추적</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>[그림 8] 2.99 BTC의 트랜잭션을 추적</p></figcaption></figure>
 
 2.99 BTC는 다시 한 번 다른 지갑 주소에서 전송된 BTC들과 합쳐졌고, 2.048 BTC의 액수로 동시에 다수의 지갑에 나뉘어서 전송되었다.\
 그 중 bc1q99vcvyuqxhg26ss3xygqz4x37w2le092zqh9ew 지갑 주소의 트랜잭션을 지속해서 추적해보기로 한다.
@@ -113,7 +113,7 @@ bc1qsrr8sf7xxyvaxylefta92m3qhwdj3nlu0jrl4x 지갑 주소에서는 약 2천 건�
 
 2.048 BTC는 bc1qzyksw2g4f8zgq8en9pc6e2wpaw3nk6tdpfw5aq 지갑 주소로 전송되었고 해당 지갑 주소에서는 총 78개의 트랜잭션이 발생해 다수의 지갑으로 BTC를 주고받은 것을 알 수 있다.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>[그림 10] 흩어진 BTC가 하나의 지갑으로 모이는 형태</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>[그림 10] 흩어진 BTC가 하나의 지갑으로 모이는 형태</p></figcaption></figure>
 
 다수의 트랜잭션을 통해 분산된 지갑들을 모두 확장시켜본 결과, 위 그래프와 같이 하나의 지갑으로 모이는 형태를 확인했다.
 
@@ -131,13 +131,13 @@ bc1qsrr8sf7xxyvaxylefta92m3qhwdj3nlu0jrl4x 지갑 주소에서는 약 2천 건�
 
 세 번째 2.048 BTC를 추적한 결과, 다른 지갑 주소에서 전송된 BTC와 합쳐져 OKX라는 거래소 소유의 지갑 주소로 전송된 것을 확인했다. ([https://www.okx.com/](https://www.okx.com/))
 
-<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption><p>[그림 13] 또 다른 2.048 BTC 추적 (4/5)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>[그림 13] 또 다른 2.048 BTC 추적 (4/5)</p></figcaption></figure>
 
 네 번째 2.048 BTC를 추적한 결과, 다른 지갑 주소에서 전송된 BTC와 합쳐져 Mexc 거래소 소유의 지갑 주소로 전송되었다. ([https://www.mexc.com/ko-KR](https://www.mexc.com/ko-KR))
 
 #### Chain Hopping
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>[그림 14] 또 다른 2.048 BTC 추적 (5/5)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>[그림 14] 또 다른 2.048 BTC 추적 (5/5)</p></figcaption></figure>
 
 다섯 번째 2.048 BTC를 추적한 결과, 다른 지갑 주소에서 전송된 BTC와 합쳐져 23.0396877 BTC에 해당하는 금액이 renBTC로 변환된 것을 확인했다.
 

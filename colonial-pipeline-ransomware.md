@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/그림1 (2).png
+cover: .gitbook/assets/그림1.png
 coverY: 0
 ---
 
@@ -9,7 +9,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 1] 콜로니얼 파이프라인 사건 관련 <a href="https://www.cctvnews.co.kr/news/articleView.html?idxno=229908">cctvnews</a> 기사</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 2] 콜로니얼 파이프라인 사건 관련 <a href="https://www.itworld.co.kr/news/197089">itworld</a> 기사</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 2] 콜로니얼 파이프라인 사건 관련 <a href="https://www.itworld.co.kr/news/197089">itworld</a> 기사</p></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ coverY: 0
 
 ### 1-5) Bitcoin 시세 하락
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 3] Blockstream 최고 경영자 Adam Back의 <a href="https://twitter.com/adam3us/status/1402182785205518337">Twitter</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 3] Blockstream 최고 경영자 Adam Back의 <a href="https://twitter.com/adam3us/status/1402182785205518337">Twitter</a></p></figcaption></figure>
 
 
 
@@ -65,7 +65,7 @@ FBI가 해커 그룹으로부터 비트코인을 압수했다고 발표한 뒤 �
 
 ### 2-1) 비트코인 압수 영장 발부
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>[그림 4] Colonial Pipeline 랜섬웨어 감염 사건 <a href="https://www.justice.gov/d9/press-releases/attachments/2021/06/08/darkside_affidavit.pdf">관련 압수 영장</a> 중 일부</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption><p>[그림 4] Colonial Pipeline 랜섬웨어 감염 사건 <a href="https://www.justice.gov/d9/press-releases/attachments/2021/06/08/darkside_affidavit.pdf">관련 압수 영장</a> 중 일부</p></figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 ### 2-2) 압수 대상 비트코인 추적 과정
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>[그림 5] Colonial Pipeline 측 비트코인 전송 과정 중 일부(1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>[그림 5] Colonial Pipeline 측 비트코인 전송 과정 중 일부(1)</p></figcaption></figure>
 
 
 
@@ -83,7 +83,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption><p>[그림 6] Colonial Pipeline 측 비트코인 전송 과정 중 일부(2)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption><p>[그림 6] Colonial Pipeline 측 비트코인 전송 과정 중 일부(2)</p></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption><p>[그림 7] Colonial Pipeline 측 비트코인 전송 과정 중 일부(3)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>[그림 7] Colonial Pipeline 측 비트코인 전송 과정 중 일부(3)</p></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>[그림 8] Colonial Pipeline 측 비트코인 전송 과정 중 일부(4)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>[그림 8] Colonial Pipeline 측 비트코인 전송 과정 중 일부(4)</p></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>[그림 9] Colonial Pipeline 측 비트코인 전송 과정 중 일부(5)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 9] Colonial Pipeline 측 비트코인 전송 과정 중 일부(5)</p></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption><p>[그림 10] 63.7 BTC 전송 후 남은 비트코인 추적</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>[그림 10] 63.7 BTC 전송 후 남은 비트코인 추적</p></figcaption></figure>
 
 
 
@@ -123,7 +123,7 @@ BIG 측에서 획득한 정보에 의하면 영장에 기재된 비트코인의 
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 11] 몰수된 비트코인의 행방</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption><p>[그림 11] 몰수된 비트코인의 행방</p></figcaption></figure>
 
 
 
@@ -133,7 +133,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 ### 2-3) 압수영장에 포함되지 않은 비트코인 추적 과정
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>[그림 12] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>[그림 12] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(1)</p></figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p>[그림 12] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(2)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>[그림 13] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(2)</p></figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>[그림 13] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(3)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption><p>[그림 14] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(3)</p></figcaption></figure>
 
 
 
@@ -157,7 +157,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 
 
-<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption><p>[그림 14] Peel Chain 형태의 트랜잭션</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>[그림 15] Peel Chain 형태의 트랜잭션</p></figcaption></figure>
 
 
 
