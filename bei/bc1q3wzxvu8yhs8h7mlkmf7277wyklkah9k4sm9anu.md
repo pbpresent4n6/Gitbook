@@ -44,7 +44,7 @@ QLUE의 e-Graph 기능으로 조회한 트랜잭션 그래프는 위와 같다.
 
 ### 2-1) Output 트랜잭션 추적
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>[그림 3] Binance 거래소로 비트코인 전송</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>[그림 3] Binance 거래소로 비트코인 전송</p></figcaption></figure>
 
 bc1qhjnxutw0qvah8rea430ark2df2fcxm5xlfy52r 주소에서 2.54 BTC 중 약 1.33에 해당하는 BTC를 Binance 거래소로 전송한 사실을 확인할 수 있다(붉은선). ([https://www.binance.com/en](https://www.binance.com/en))
 

@@ -250,7 +250,7 @@ OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확
 
 ### 2-10) 트랜잭션 속성 분석
 
-<figure><img src=".gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>[그림 14] 비트코인 휴리스틱 10 - 트랜잭션 속성 분석</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (3).png" alt=""><figcaption><p>[그림 14] 비트코인 휴리스틱 10 - 트랜잭션 속성 분석</p></figcaption></figure>
 
 
 
@@ -260,7 +260,7 @@ OSINT, HUMINT 등의 정보를 통해 이미 클러스터에 속해있는지 확
 
 
 
-<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>[그림 15] QLUE로 확인한 [그림 14] 트랜잭션</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption><p>[그림 15] QLUE로 확인한 [그림 14] 트랜잭션</p></figcaption></figure>
 
 
 

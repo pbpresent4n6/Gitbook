@@ -2,7 +2,7 @@
 
 ## 1. bc1q8xyt4jxhw7mgqpwd6qfdjyxgvjeuz57jxrvgk9 지갑 주소 정보
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>[그림 1] bc1q8xyt4jxhw7mgqpwd6qfdjyxgvjeuz57jxrvgk9 지갑 주소 정보</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>[그림 1] bc1q8xyt4jxhw7mgqpwd6qfdjyxgvjeuz57jxrvgk9 지갑 주소 정보</p></figcaption></figure>
 
 QLUE에서 조회한 bc1q8xyt4jxhw7mgqpwd6qfdjyxgvjeuz57jxrvgk9 지갑 주소의 요약 정보는 위와 같다.
 

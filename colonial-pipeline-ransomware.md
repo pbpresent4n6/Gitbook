@@ -9,7 +9,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>[그림 1] 콜로니얼 파이프라인 사건 관련 <a href="https://www.cctvnews.co.kr/news/articleView.html?idxno=229908">cctvnews</a> 기사</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>[그림 2] 콜로니얼 파이프라인 사건 관련 <a href="https://www.itworld.co.kr/news/197089">itworld</a> 기사</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>[그림 2] 콜로니얼 파이프라인 사건 관련 <a href="https://www.itworld.co.kr/news/197089">itworld</a> 기사</p></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>[그림 9] Colonial Pipeline 측 비트코인 전송 과정 중 일부(5)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>[그림 9] Colonial Pipeline 측 비트코인 전송 과정 중 일부(5)</p></figcaption></figure>
 
 
 
@@ -133,7 +133,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 ### 2-3) 압수영장에 포함되지 않은 비트코인 추적 과정
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>[그림 12] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption><p>[그림 12] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(1)</p></figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@ FBI의 지갑 주소로 몰수된 약 63.7 BTC는 몇 번의 트랜잭션을 거
 
 
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption><p>[그림 14] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(3)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35) (2).png" alt=""><figcaption><p>[그림 14] 압수영장에 포함되지 않은 비트코인 추적 과정 중 일부(3)</p></figcaption></figure>
 
 
 
