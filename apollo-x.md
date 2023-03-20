@@ -154,12 +154,12 @@ Apollo X 트위터 공식 입장2
 
 ## 3. 결론
 
-* ApolloX 공격자는 스마트 컨트랙트의 서명 확인 취약점을 이용해 5300만 APX 토큰을 탈취했다.
-* APX 토큰은 Pancake Swap을 통해 약 160만 BUSD 토큰으로 변환됐다. (Binance Chain -> Binance Chain)
-* BUSD 토큰은 ZAP Bridge를 통해 nUSD 토큰으로 변환됐다. (Binance Chain -> Ethereum Chain)
-* nUSD 토큰은 USDC 토큰으로 변환됐다. (Ethereum Chain -> Ethereum Chain)
-* USDC 토큰은 DAI 토큰으로 변환됐다. (Ethereum Chain -> Ethereum Chain)
-* DAI 토큰은 renBTC 토큰으로 변환됐다. (Ethereum Chain -> Ethereum Chain)
-* renBTC 토큰은 BTC로 변환됐다. (Ethereum Chain -> Bitcoin Chain)
+* Apollo X 공격자는 스마트 컨트랙트의 서명 확인 취약점을 이용해 5300만 APX 토큰을 탈취했다.
+* APX 토큰을 Pancake Swap을 통해 약 160만 BUSD 토큰으로 변환했다. (Binance Chain -> Binance Chain)
+* BUSD 토큰을 ZAP Bridge를 통해 nUSD 토큰으로 변환했다. (Binance Chain -> Ethereum Chain)
+* nUSD 토큰을 USDC 토큰으로 변환했다. (Ethereum Chain -> Ethereum Chain)
+* USDC 토큰을 DAI 토큰으로 변환했다. (Ethereum Chain -> Ethereum Chain)
+* DAI 토큰을 renBTC 토큰으로 변환했다. (Ethereum Chain -> Ethereum Chain)
+* renBTC 토큰을 BTC로 변환했다. (Ethereum Chain -> Bitcoin Chain)
 * BTC는 여러 주소로 나뉘어져 전송됐으며, 그 중 일부는 Lazarus Group이 소유한 주소에도 전송됐다.
 
