@@ -71,7 +71,7 @@ Output 트랜잭션 중 상당한 규모의 액수는 33bEYhASee8UhJrdprWS7orzZT
 
 해당 주소는 거래소로 클러스터링 되지는 않았지만, 트랜잭션 횟수가 약 3천 건이고, 주고 받은 BTC가 약 46,744 정도 되기 때문에 식별되지 않은 거래소의 지갑 주소로 추측해볼 수 있다.
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>[그림 5] 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A 지갑 주소 Input 트랜잭션</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption><p>[그림 5] 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A 지갑 주소 Input 트랜잭션</p></figcaption></figure>
 
 Ryuk Ransomware 클러스터에 포함되어 있던 주소인 1Lpv2cpu9fkdhhGcMc36b78JEWgtqrYm8A의 Input BTC는 분석 대상 지갑 주소의 Output 트랜잭션 중 일부가 들어간 것으로 확인됐다.
 

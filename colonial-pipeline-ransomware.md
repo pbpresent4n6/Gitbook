@@ -75,7 +75,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 ### 2-2) 압수 대상 비트코인 추적 과정
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>[그림 5] Colonial Pipeline 측 비트코인 전송 과정 중 일부(1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (3).png" alt=""><figcaption><p>[그림 5] Colonial Pipeline 측 비트코인 전송 과정 중 일부(1)</p></figcaption></figure>
 
 
 
@@ -83,7 +83,7 @@ Colonial Pipeline 사건의 공격자로 알려진 Darkside 그룹이 소지한 
 
 
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption><p>[그림 6] Colonial Pipeline 측 비트코인 전송 과정 중 일부(2)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption><p>[그림 6] Colonial Pipeline 측 비트코인 전송 과정 중 일부(2)</p></figcaption></figure>
 
 
 
